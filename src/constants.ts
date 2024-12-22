@@ -1,0 +1,3 @@
+export const DEVNET_COUNTER_PACKAGE_ID = import.meta.env.VITE_CONTRACT_ADDRESS;
+export const TESTNET_COUNTER_PACKAGE_ID = import.meta.env.VITE_CONTRACT_ADDRESS;
+export const MAINNET_COUNTER_PACKAGE_ID = import.meta.env.VITE_CONTRACT_ADDRESS;
